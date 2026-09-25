@@ -1,6 +1,13 @@
 # 💫 About Me:
-I’m a 3rd-year B.Tech Computer Science student with a strong interest in Software Development and Data Science.<br><br>Currently focused on strengthening my Data Structures & Algorithms skills using Java while building a solid foundation in Data Science, Machine Learning, and Python.<br><br>I enjoy solving problems, learning new technologies, and working on projects that turn ideas into practical solutions.
+Hi there, I'm Zeeshan 👋
 
+🎓 3rd-Year B.Tech CSE Student | 📊 Data Science & AI Enthusiast
+
+💻 Java | Python | SQL | DSA in Java | Machine Learning | Generative AI
+
+🧠 Focused on problem-solving, DSA, and building a strong foundation in Data Science, Machine Learning & Generative AI.
+
+🚀 Learning | Building Projects | Solving Problems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-zeeshan-6937062a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zm7964167@gmail.com) 
